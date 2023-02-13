@@ -44,6 +44,6 @@
 	
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light)
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAISSJ&layout=compact&theme=solarized-light&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAISSJ&layout=compact&theme=solarized-light&langs_count=10)]
 </div>
 
