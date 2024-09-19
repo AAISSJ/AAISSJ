@@ -8,7 +8,7 @@
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities. 
 - 👩‍💻 Learning new things really excites me, and that’s why I feel so connected to the fast-paced world of AI!
 
-**ℹ️ More Info** &nbsp;&nbsp;
+**ℹ️ More Info :** &nbsp;
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AAISSJ)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sejung-son-39695a244/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maze0717@g.skku.edu)
