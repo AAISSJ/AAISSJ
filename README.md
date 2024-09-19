@@ -1,8 +1,9 @@
 
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=FDF6E3&height=300&section=header&text=👩‍💻&nbsp;SejungSon&nbsp;Github&nbsp;👾%20&animation=blink&fontColor=489CD5&fontSize=50" />
-</div>
+<h1> Hi, I'm Sejung <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+
+
+<h2> Skill Set 💪
 <div align="center">
 	<h3>💻 My Tech Stack 💻</h3><br>
 	<p>✨ Platforms & Languages ✨</p>
