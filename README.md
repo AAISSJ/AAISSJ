@@ -3,7 +3,7 @@
 
 
 
-<h2> Languages and Tools 💪
+<h2> Languages and Tools 💪</h2><br>
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat&logo=PyTorch Lightning&logoColor=white" />
