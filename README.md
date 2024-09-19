@@ -6,21 +6,18 @@
 ---
 
 ### Talking about Personal Interests 👾
+<img width="30%" align="right" alt="cat gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZvM3lmMHpqaHRhYTNyYml0a2Z4Njg3dzE1bzNveGpubHQ2b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" />
+
 - 🎙️ I’m passionate about using NLP technologies to understand how people communicate and what they need!
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities.
 - 👩‍💻 Learning new things excites me, and that’s why I feel so connected to the fast-paced world of AI!
 
 ---
 
-<div align="center">
-	<a><img width="45%" align="left" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" /></a>
-	<img width="25%" align="right" alt="Github gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZvM3lmMHpqaHRhYTNyYml0a2Z4Njg3dzE1bzNveGpubHQ2b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" />
-</div>
-
----
-
 ### Languages and Tools 💪
-<div align="center">
+<img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" />
+
+<div align="left">
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat&logo=PyTorch Lightning&logoColor=white" />
