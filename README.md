@@ -3,11 +3,6 @@
 <h2> Taking about Personal Staffs 👾 </h2><br>
 
 
-
-<br><br>
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaissj%2Fhit-counter&count_bg=%239FAD31&title_bg=%23489CD5&icon=github.svg&icon_color=%23FDF6E3&title=hits&edge_flat=false"/></a>
-
 <p>
 	<a><img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
 	<h4> Languages and Tools 💪</h4>
@@ -31,5 +26,5 @@
 		<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 		<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white" />
 	</div>
-</a>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaissj%2Fhit-counter&count_bg=%239FAD31&title_bg=%23489CD5&icon=github.svg&icon_color=%23FDF6E3&title=hits&edge_flat=false"/></a>
 </p>
