@@ -5,7 +5,7 @@
 
 <p>
 	<a><img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
-	<h4> Languages and Tools 💪</h4>
+	<h4 align="center"> Languages and Tools 💪</h4>
 	<div align="center">
 		<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 		<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
