@@ -7,6 +7,10 @@
 
 ### Taking about Personal Staffs 👾
 
+🎙️ I’m passionate about using NLP technologies to understand how people communicate and what they need!
+🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities. 
+👩‍💻 Learning new things really excites me, and that’s why I feel so connected to the fast-paced world of AI.
+
 
 <p>
 	<a><img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
