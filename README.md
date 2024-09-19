@@ -32,13 +32,8 @@
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaissj%2Fhit-counter&count_bg=%239FAD31&title_bg=%23489CD5&icon=github.svg&icon_color=%23FDF6E3&title=hits&edge_flat=false"/></a>
 
- <p>
-<a >
-    <img width="55%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" />
-  </a>
-
+<p>
+<a><img width="55%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
+<a><img width="45%" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAISSJ&layout=compact&theme=solarized-light&langs_count=10" /></a>
 <a>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAISSJ&layout=compact&theme=solarized-light&langs_count=10)
-</div>
 </p>
