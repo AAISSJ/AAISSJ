@@ -16,7 +16,8 @@
 ### Languages and Tools 💪
 <img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" />
 
-<div align="left">
+<div align="center">
+  <div align="left" style="display:inline-block;">
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat&logo=PyTorch Lightning&logoColor=white" />
@@ -35,4 +36,5 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white" />
+  </div>
 </div>
