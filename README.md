@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maze0717@g.skku.edu)
 &nbsp;
 
-##### Talking about Personal Staffs 👾
+#### Talking about Personal Staffs 👾
 
 - 🎙️ I’m passionate about using NLP technologies to understand how people communicate and what they need!
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities. 
