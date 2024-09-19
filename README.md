@@ -9,7 +9,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faaissj%2Fhit-counter&count_bg=%239FAD31&title_bg=%23489CD5&icon=github.svg&icon_color=%23FDF6E3&title=hits&edge_flat=false"/></a>
 
 <p>
-	<a><img width="50%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
+	<a><img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
 	<h4> Languages and Tools 💪</h4>
 	<div align="center">
 		<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
