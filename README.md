@@ -9,7 +9,7 @@
 
 - 🎙️ I’m passionate about using NLP technologies to understand how people communicate and what they need!
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities. 
-- 👩‍💻 Learning new things really excites me, and that’s why I feel so connected to the fast-paced world of AI.
+- 👩‍💻 Learning new things really excites me, and that’s why I feel so connected to the fast-paced world of AI!
 
 
 <br><br>
