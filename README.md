@@ -1,5 +1,6 @@
 
 <h1> Hi, I'm Sejung <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h2> Taking about Personal Staffs 👾 </h2><br>
 
 
 
