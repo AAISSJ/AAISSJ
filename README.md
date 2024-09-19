@@ -12,6 +12,8 @@
 - 👩‍💻 Learning new things really excites me, and that’s why I feel so connected to the fast-paced world of AI.
 
 
+<br><br>
+
 <p>
 	<a><img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
 	<h4 align="center"> Languages and Tools 💪</h4>
