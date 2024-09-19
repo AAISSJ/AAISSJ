@@ -4,9 +4,8 @@
 
 
 <h2> Skill Set 💪
-<div align="center">
-	<h3>💻 My Tech Stack 💻</h3><br>
-	<p>✨ Platforms & Languages ✨</p>
+<h3>💻 My Tech Stack 💻</h3><br>
+<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=Python&logoColor=white" />
