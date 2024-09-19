@@ -6,7 +6,7 @@
 &nbsp;
 
 #### Talking about Personal Staffs 👾
-<img width="25%" align="right" alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZvM3lmMHpqaHRhYTNyYml0a2Z4Njg3dzE1bzNveGpubHQ2b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" />
+<img width="15%" align="right" alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZvM3lmMHpqaHRhYTNyYml0a2Z4Njg3dzE1bzNveGpubHQ2b2l2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YYQ6sw8jt2HRxX4uVi/giphy.webp" />
 
 - 🎙️ I’m passionate about using NLP technologies to understand how people communicate and what they need!
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities. 
