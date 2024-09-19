@@ -34,6 +34,5 @@
 
 <p>
 <a><img width="50%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-lighte" /></a>
-<a><img width="50%" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAISSJ&layout=compact&theme=solarized-light&langs_count=10" /></a>
-<a>
+
 </p>
