@@ -49,5 +49,5 @@
 ----
 
 <h4> Github Stats. 💪 </h4>
-<img width="45%" align="left" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" />
+<img width="45%" align="center" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" />
 
