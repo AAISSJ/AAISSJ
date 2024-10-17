@@ -39,5 +39,5 @@
 	<img src="https://img.shields.io/badge/Github-000000?style=flat&logo=Github&logoColor=white" />
   </div>
 </div>
-----
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maze0717)](https://solved.ac/maze0717/)
