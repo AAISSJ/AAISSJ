@@ -7,7 +7,7 @@
 
 ### Talking about Personal Interests 👾
 
-- 🎙️ I’m passionate about using NLP skills to understand how people communicate and what they need!
+- 🎙️ I’m passionate about **using NLP skills to understand how people communicate and what they need!**
 - 🔍 I also love expanding my interests into multimodal learning, exploring how it can enhance these capabilities.
 - 👩‍💻 Learning new things excites me, and that’s why I feel so connected to the fast-paced world of AI!
 
