@@ -15,6 +15,7 @@
 
 
 <img width="45%" align="right" alt="Sejung's github stats" src="https://github-readme-stats.vercel.app/api?username=AAISSJ&show_icons=true&theme=solarized-light" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maze0717)](https://solved.ac/maze0717/)
 
 <div align="left">
 	<h4> Languages and Tools 💪 </h4>
@@ -40,4 +41,3 @@
   </div>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maze0717)](https://solved.ac/maze0717/)
