@@ -2,8 +2,6 @@
 
 AI Engineer at **NHN Corporation**, building LLM-powered agentic systems.
 
-Currently working on [AI Playground](https://github.com/AAISSJ) — an internal platform that connects LLMs with enterprise tools (Dooray, HR systems, calendars) through tool calling and multi-step agent workflows.
-
 ### What I Do
 
 - **LLM Serving & Infra** — vLLM-based model serving, tool call parsing, schema-aware type conversion
