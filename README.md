@@ -7,6 +7,7 @@ AI Engineer at **NHN Corporation**, building LLM-powered agentic systems.
 - **LLM Serving & Infra** — vLLM-based model serving with LMCache, MCP server orchestration, content safety (safeguard)
 - **Agentic AI** — LangChain/LangGraph-based enterprise agent with human-in-the-loop interrupt, RAG pipeline, enterprise tool integration (calendar, task, messenger, HR)
 - **Multilingual NLP** — Korean/Japanese text quality, i18n, prompt engineering
+- **Developer Productivity** — Claude Code agent skills, CI/CD automation with GitHub Actions
 - **Applied NLP Research** — clinical NLP, multimodal learning, speech-based diagnostics
 
 ### Publications
