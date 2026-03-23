@@ -4,7 +4,7 @@ AI Engineer at **NHN Corporation**, building LLM-powered agentic systems.
 
 ### What I Do
 
-- **LLM Serving & Infra** — vLLM-based model serving, tool call parsing, schema-aware type conversion
+- **LLM Serving & Infra** — vLLM-based model serving, LMCache optimization
 - **Agentic AI** — multi-tool orchestration, streaming tool parsers, human-in-the-loop workflows
 - **Applied NLP Research** — clinical NLP, multimodal learning, speech-based diagnostics
 
