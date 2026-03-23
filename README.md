@@ -12,9 +12,14 @@ Currently working on [AI Playground](https://github.com/AAISSJ) — an internal 
 
 ### Publications
 
-- **[NAACL 2024]** Detecting Bipolar Disorder from Misdiagnosed MDD with Mood-Aware Multi-Task Learning
-- **[EMNLP 2023]** Learning Co-Speech Gesture for Multimodal Aphasia Type Detection
-- **[ICASSP 2023]** Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech — *SPGC Challenge*
+- **[CHI 2026]** Accuracy as Autonomy: How Reliable Information Enables Choice in Wheelchair-Accessible Taxi Services *(poster)*
+- **[Interspeech 2025]** Synthetic Data Generation for Phrase Break Prediction with Large Language Model *(main)*
+- **[NAACL 2024]** Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning *(long, main)*
+- **[EMNLP 2023]** Learning Co-Speech Gesture for Multimodal Aphasia Type Detection *(long, main)*
+- **[KDD 2023]** Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning *(long)*
+- **[CLPsych]** A Dual-Prompting for Interpretable Mental Health Language Models
+- **[KCC]** A Multilingual Multimodal Model for Diagnosing Dementia
+- **[KIBME]** Toward Natural and Intelligible Speech Synthesis: An Empirical Study on Transfer Learning
 
 ### Open Source
 
