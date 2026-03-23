@@ -17,7 +17,7 @@ Currently working on [AI Playground](https://github.com/AAISSJ) — an internal 
 - **[NAACL 2024]** Detecting Bipolar Disorder from Misdiagnosed Major Depressive Disorder with Mood-Aware Multi-Task Learning *(long, main)*
 - **[EMNLP 2023]** Learning Co-Speech Gesture for Multimodal Aphasia Type Detection *(long, main)*
 - **[KDD 2023]** Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning *(long)*
-- **[CLPsych]** A Dual-Prompting for Interpretable Mental Health Language Models
+- **[CLPsych 2024]** A Dual-Prompting for Interpretable Mental Health Language Models
 - **[KCC]** A Multilingual Multimodal Model for Diagnosing Dementia
 - **[KIBME]** Toward Natural and Intelligible Speech Synthesis: An Empirical Study on Transfer Learning
 
