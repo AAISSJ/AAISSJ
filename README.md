@@ -21,10 +21,6 @@ Currently working on [AI Playground](https://github.com/AAISSJ) — an internal 
 - **[KCC]** A Multilingual Multimodal Model for Diagnosing Dementia
 - **[KIBME]** Toward Natural and Intelligible Speech Synthesis: An Empirical Study on Transfer Learning
 
-### Open Source
-
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) — Contributed fixes for tool parser type resolution ([#37831](https://github.com/vllm-project/vllm/pull/37831))
-
 ### Tech Stack
 
 `Python` `vLLM` `LangChain` `LangGraph` `PyTorch` `FastAPI` `Linux`
