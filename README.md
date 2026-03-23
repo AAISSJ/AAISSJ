@@ -4,8 +4,9 @@ AI Engineer at **NHN Corporation**, building LLM-powered agentic systems.
 
 ### What I Do
 
-- **LLM Serving & Infra** — vLLM-based model serving, LMCache optimization
-- **Agentic AI** — multi-tool orchestration, streaming tool parsers, human-in-the-loop workflows
+- **LLM Serving & Infra** — vLLM-based model serving with LMCache, MCP server orchestration, content safety (safeguard)
+- **Agentic AI** — LangChain/LangGraph-based enterprise agent with human-in-the-loop interrupt, RAG pipeline, enterprise tool integration (calendar, task, messenger, HR)
+- **Multilingual NLP** — Korean/Japanese text quality, i18n, prompt engineering
 - **Applied NLP Research** — clinical NLP, multimodal learning, speech-based diagnostics
 
 ### Publications
